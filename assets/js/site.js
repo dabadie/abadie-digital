@@ -75,6 +75,9 @@
       box.replaceChildren(iframe);
       box.classList.add("is-playing");
       iframe.focus();
+      if (typeof window.gtag === "function") {
+        window.gtag("event", "video_play", { video_id: id, video_title: title });
+      }
     });
   });
 
