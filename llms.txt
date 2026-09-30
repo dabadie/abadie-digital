@@ -33,17 +33,20 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 
 ## Talks and videos
 
+Featured:
+- [Building Argentina's Government-as-a-Platform, Code for America Summit keynote (2019, EN)](https://www.youtube.com/watch?v=htiPLQ1iO0A)
+- [Mínimo gobierno viable (Minimum viable government), TEDxMarDelPlata (2014, ES)](https://www.youtube.com/watch?v=ZHHQvu_o0Fk)
+
+More:
 - [DPI–AI Framework: Integrating AI into DPI, IDB Code4Dev webinar (2026, ES)](https://www.youtube.com/watch?v=z8PQdcHF6bI)
 - [Sovra Podcast #01: identity, payments and verifiable credentials in LATAM (2025, ES)](https://www.youtube.com/watch?v=OtsupCIp164)
-- [Building Argentina's Government-as-a-Platform, Code for America Summit keynote (2019, EN)](https://www.youtube.com/watch?v=htiPLQ1iO0A)
-- [5-Word Speech at the 23rd Webby Awards (2019, EN)](https://www.youtube.com/watch?v=VXfv69K5G6E)
-- [Mínimo gobierno viable (Minimum viable government), TEDxMarDelPlata (2014, ES)](https://www.youtube.com/watch?v=ZHHQvu_o0Fk)
 - [The present and future of digital transformation in Argentina, CCC Noticias (2024, ES)](https://www.youtube.com/watch?v=FFV5_AtK6Xs)
 - [Mi Argentina, chapter 2 (2019, ES)](https://www.youtube.com/watch?v=JbxyNwFvpd0)
 - [Futuro Público podcast (2023, ES)](https://open.spotify.com/episode/659UqqOTUFd2L6pqIOrJnh)
 
 ## Press
 
+- [Crecer con Salud (Chat Crecer) virtual assistant, OECD Observatory of Public Sector Innovation case study](https://oecd-opsi.org/innovations/crecer-con-salud-virtual-assistant-for-pregnancy-and-early-childhood/)
 - [New framework argues government AI depends on strong DPI, Biometric Update (2026)](https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi)
 - [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
 - [How Argentina launched a new driving licence in just 65 days, GovInsider](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
