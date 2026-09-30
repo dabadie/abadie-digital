@@ -15,10 +15,10 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 - 2024–present: CDPI (see above).
 - 2023–2024: Digital Transformation Advisor to the CEO, Banco Macro. Designed the bank's GovTech division, a citizen app, and a blockchain wallet for governments to pay social benefits.
 - 2020–2023: Latin America & Caribbean lead, Public Digital (London). Clients included the IDB, CAF, UNDP, Belize, Panama, Jamaica, Peru, Trinidad and Tobago, Buenos Aires City, the State of California, British Columbia and Bloomberg Philanthropies. Wrote the IDB Data Strategy Playbook.
-- 2015–2019: Undersecretary of Digital Government, Presidency of Argentina. Argentina's Chief Digital Officer. Led the 2018 G20 discussion on government transformation. Delivered Mi Argentina (citizen platform and digital wallet, 3M+ users, first digital driving licence), argentina.gob.ar (1,000+ sites merged into one domain; 127M users in four years), Chat Crecer (2019 Webby Award, Health) and the National Digital Inclusion Plan (400,000+ people trained).
+- 2015–2019: Undersecretary of Digital Government, Presidency of Argentina. Argentina's Chief Digital Officer. Led the 2018 G20 discussion on government transformation. Delivered Mi Argentina (citizen platform and digital wallet; 3M+ users by 2019, 30M+ today; first digital driving licence), argentina.gob.ar (1,000+ sites merged into one domain; 127M users in four years), Chat Crecer (2019 Webby Award, Health) and the National Digital Inclusion Plan (400,000+ people trained).
 - 2015: Head of Technology, Mauricio Macri presidential campaign (PRO). Ran national campaign infrastructure and digital product development.
 - 2011: Digital team, Mauricio Macri's Buenos Aires mayoral campaign (PRO). Digital strategy and applications.
-- 2007–2015: Government of the City of Buenos Aires. Roles were CTO Citizen Services, Head of Web and Electronic Government Director. Created the 147 citizen contact centre (28 lines merged into one), buenosaires.gob.ar (400+ sites merged), and the BA Cómo Llego app (App of the Year 2014).
+- 2007–2015: Government of the City of Buenos Aires. Roles were CTO Citizen Services, Head of Web and Electronic Government Director. Created Mi BA (2015), the personal citizen account that was the genesis of Mi Argentina; moved in-person procedures to the 15 comunas (formerly CGPs) with online appointment booking; created the 147 citizen contact centre (28 lines merged into one), buenosaires.gob.ar (400+ sites merged), and the BA Cómo Llego app (App of the Year 2014).
 - 2000–2007: Private sector. General Manager at PackagingBrokers.com, CIO at Mailparking.com, IT Manager at LaCasilla.com.ar.
 
 ## Publications
@@ -56,7 +56,9 @@ More:
 
 - [New framework argues government AI depends on strong DPI, Biometric Update (2026)](https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi)
 - [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
-- [How Argentina launched a new driving licence in just 65 days, GovInsider](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
+- [A humanity-scale digital public infrastructure?, GovInsider (2024)](https://govinsider.asia/intl-en/article/a-humanity-scale-digital-public-infrastructure)
+- [The Centre for Digital Public Infrastructure to launch DPI-as-a-Packaged-Solution, GovInsider (2024)](https://govinsider.asia/intl-en/article/the-centre-for-digital-public-infrastructure-to-launch-dpi-as-a-packaged-solution)
+- [How Argentina launched a new driving licence in just 65 days, GovInsider (2019)](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
 - [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/lists/digital-government-world100)
 
 ## Awards
