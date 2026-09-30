@@ -24,6 +24,23 @@
     });
   });
 
+  // Highlight the nav link of the section currently in view
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('#siteNav .nav-link[href^="#"]'));
+  var sections = navLinks.map(function (l) { return document.querySelector(l.getAttribute("href")); });
+  var updateActive = function () {
+    var line = window.scrollY + window.innerHeight * 0.35;
+    var current = -1;
+    sections.forEach(function (sec, i) { if (sec && sec.offsetTop <= line) current = i; });
+    navLinks.forEach(function (l, i) {
+      var on = i === current;
+      l.classList.toggle("active", on);
+      if (on) l.setAttribute("aria-current", "true"); else l.removeAttribute("aria-current");
+    });
+  };
+  window.addEventListener("scroll", updateActive, { passive: true });
+  window.addEventListener("resize", updateActive);
+  updateActive();
+
   // Scroll reveal
   var reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {
