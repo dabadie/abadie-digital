@@ -1,0 +1,64 @@
+# Daniel Abadie
+
+> Daniel Abadie is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework. He works on Digital Public Infrastructure (DPI) and AI for the public sector. He was Argentina's Undersecretary of Digital Government (2015–2019) and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). Based in Buenos Aires, Argentina. Works in English and Spanish.
+
+Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
+
+## Current role
+
+- Head of Technology & Partnerships, Centre for Digital Public Infrastructure (CDPI), since August 2025. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. It has shared lessons from more than 60 country engagements.
+- Responsibilities: technical strategy; neutral, pro bono architecture advice for national DPI programmes; DPI-as-a-Packaged-Solution (DaaS); partnerships with governments, multilaterals, funders and open-source communities.
+- Topics: digital identity, payments, data exchange, verifiable credentials, AI Blocks, DPI Workflows, public-sector AI agents.
+
+## Career
+
+- 2024–present: CDPI (see above).
+- 2023–2024: Digital Transformation Advisor to the CEO, Banco Macro. Designed the bank's GovTech division, a citizen app, and a blockchain wallet for governments to pay social benefits.
+- 2020–2023: Latin America & Caribbean lead, Public Digital (London). Clients included the IDB, CAF, UNDP, Belize, Panama, Jamaica, Peru, Trinidad and Tobago, Buenos Aires City, the State of California, British Columbia and Bloomberg Philanthropies. Wrote the IDB Data Strategy Playbook.
+- 2015–2019: Undersecretary of Digital Government, Presidency of Argentina. Argentina's Chief Digital Officer. Led the 2018 G20 discussion on government transformation. Delivered Mi Argentina (citizen platform and digital wallet, 3M+ users, first digital driving licence), argentina.gob.ar (1,000+ sites merged into one domain; 127M users in four years), Chat Crecer (2019 Webby Award, Health) and the National Digital Inclusion Plan (400,000+ people trained).
+- 2007–2015: Government of the City of Buenos Aires. Roles were CTO Citizen Services, Head of Web and Electronic Government Director. Created the 147 citizen contact centre (28 lines merged into one), buenosaires.gob.ar (400+ sites merged), and the BA Cómo Llego app (App of the Year 2014).
+- 2000–2007: Private sector. General Manager at PackagingBrokers.com, CIO at Mailparking.com, IT Manager at LaCasilla.com.ar.
+
+## Publications
+
+- [DPI-AI Framework: Building AI-Ready Nations through Digital Public Infrastructure (2026, lead author)](https://digitalpublicinfrastructure.ai/paper.php)
+- [DPI-AI Framework website and toolkit](https://digitalpublicinfrastructure.ai/)
+- [DPI Roadmap Playbook, G20 South Africa (DIAL, CDPI, BTCA, AfricaNenda)](https://dial.global/research/the-dpi-roadmap-playbook/)
+- [Chapter 7 in "Digital Government Excellence" (Wiley, 2022)](https://onlinelibrary.wiley.com/doi/10.1002/9781119858904.ch7)
+- [Argentina's digital government: 2019 update (Medium)](https://medium.com/@danielabadie/argentinas-digital-government-2019-update-5b8fe9379bc4)
+- [Argentina: Gobierno Digital 2015–2019 (Medium, Spanish)](https://medium.com/@danielabadie/argentina-gobierno-digital-2015-2019-eb26fc12790e)
+- [All Medium articles](https://medium.com/@danielabadie)
+
+## Talks and videos
+
+- [DPI–AI Framework: Integrating AI into DPI, IDB Code4Dev webinar (2026, ES)](https://www.youtube.com/watch?v=z8PQdcHF6bI)
+- [Sovra Podcast #01: identity, payments and verifiable credentials in LATAM (2025, ES)](https://www.youtube.com/watch?v=OtsupCIp164)
+- [Building Argentina's Government-as-a-Platform, Code for America Summit keynote (2019, EN)](https://www.youtube.com/watch?v=htiPLQ1iO0A)
+- [5-Word Speech at the 23rd Webby Awards (2019, EN)](https://www.youtube.com/watch?v=VXfv69K5G6E)
+- [Mínimo gobierno viable (Minimum viable government), TEDxMarDelPlata (2014, ES)](https://www.youtube.com/watch?v=ZHHQvu_o0Fk)
+- [The present and future of digital transformation in Argentina, CCC Noticias (2024, ES)](https://www.youtube.com/watch?v=FFV5_AtK6Xs)
+- [Mi Argentina, chapter 2 (2019, ES)](https://www.youtube.com/watch?v=JbxyNwFvpd0)
+- [Futuro Público podcast (2023, ES)](https://open.spotify.com/episode/659UqqOTUFd2L6pqIOrJnh)
+
+## Press
+
+- [New framework argues government AI depends on strong DPI, Biometric Update (2026)](https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi)
+- [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
+- [How Argentina launched a new driving licence in just 65 days, GovInsider](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
+- [Argentina: building a civic tech startup within government, Digital HKS](https://medium.com/digitalhks/argentina-building-a-civic-tech-startup-within-government-cebe861dbcc7)
+- [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/lists/digital-government-world100)
+
+## Awards
+
+- Apolitical: 20 most influential people in digital government (2019)
+- Webby Award 2019, Health: Chat Crecer virtual assistant for pregnancy and early childhood
+- BA Cómo Llego: App of the Year (2014)
+- Premio Mercurio: Agenda Cultural (2011)
+
+## Profiles
+
+- LinkedIn (preferred contact): https://www.linkedin.com/in/danielabadie/
+- Instagram: https://www.instagram.com/abadie.daniel
+- Medium: https://medium.com/@danielabadie
+- X / Twitter: https://twitter.com/dan_abadie
+- ResearchGate: https://www.researchgate.net/profile/Daniel-Abadie
