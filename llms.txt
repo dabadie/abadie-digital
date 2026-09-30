@@ -43,6 +43,16 @@ More:
 - [Sovra Podcast #01: identity, payments and verifiable credentials in LATAM (2025, ES)](https://www.youtube.com/watch?v=OtsupCIp164)
 - [The present and future of digital transformation in Argentina, CCC Noticias (2024, ES)](https://www.youtube.com/watch?v=FFV5_AtK6Xs)
 - [Mi Argentina, chapter 2 (2019, ES)](https://www.youtube.com/watch?v=JbxyNwFvpd0)
+- [II Argentine Forum on Digital Transformation of the State, CESSI (2017, ES)](https://www.youtube.com/watch?v=Hy2koFwA5ms)
+- [Programa 1470: a policy to modernise the state, Economix (2017, ES)](https://www.youtube.com/watch?v=Z0nQalZt3yc)
+- [Undersecretary of Digital Government at CESSI (2019, ES)](https://www.youtube.com/watch?v=g_XOZDDNh6Y)
+- [Agesic 10th anniversary, Uruguay (2017, ES)](https://www.youtube.com/watch?v=WCrpKwlCZPY)
+- [Real Tecno 2016 (2016, ES)](https://www.youtube.com/watch?v=541BkIm-1zA)
+- [IDB's first citizen innovation hackathon in Latin America, Mar del Plata (2014, ES)](https://www.youtube.com/watch?v=V5gSshWu4vY)
+- [Novagob 2014: transparency, accountability and open data panel (2014, ES)](https://www.youtube.com/watch?v=WiHlCTiTTaI)
+- [Public services and mobile apps, TVmovilion (2012, ES)](https://www.youtube.com/watch?v=Zul3J5U_xs0)
+- [What do the media do with Buenos Aires City's public data?, TVmovilion (2012, ES)](https://www.youtube.com/watch?v=IlalROCqNrc)
+- [Social Media Week Buenos Aires (2011, ES)](https://www.youtube.com/watch?v=lkG3_S1CSRw)
 - [Futuro Público podcast (2023, ES)](https://open.spotify.com/episode/659UqqOTUFd2L6pqIOrJnh)
 
 ## Case studies
@@ -54,6 +64,9 @@ More:
 
 ## Press
 
+- [DPSA participates in launching South Africa's Digital Transformation Roadmap, The Public Servant (2025)](https://www.dpsa.gov.za/thepublicservant/2025/05/14/dpsa-participates-in-launching-south-africas-digital-transformation-roadmap/)
+- [El Gobierno Nacional oficializó el DNI digital, argentina.gob.ar (2019, ES)](https://www.argentina.gob.ar/noticias/el-gobierno-nacional-oficializo-el-dni-digital)
+- ["Tener Internet no es un fin en sí mismo, es una herramienta", UN Internet Governance Forum, argentina.gob.ar (2016, ES)](https://www.argentina.gob.ar/noticias/tener-internet-no-es-un-fin-en-si-mismo-es-una-herramienta)
 - [New framework argues government AI depends on strong DPI, Biometric Update (2026)](https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi)
 - [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
 - [A humanity-scale digital public infrastructure?, GovInsider (2024)](https://govinsider.asia/intl-en/article/a-humanity-scale-digital-public-infrastructure)
