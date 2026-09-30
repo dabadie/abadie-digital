@@ -47,7 +47,7 @@ More:
 
 ## Case studies
 
-- [From City to Nation: Digital government in Argentina, 2015–2018, Bennett Institute for Public Policy, University of Cambridge (2019)](https://www.bennettinstitute.cam.ac.uk/publications/argentina/)
+- [From City to Nation: Digital government in Argentina, 2015–2018, Bennett Institute for Public Policy, University of Cambridge (2019)](https://www.bennettschool.cam.ac.uk/publications/argentina/)
 - [Digital Innovation in Latin America: Argentina's Digital Driver's License, Beeck Center, Georgetown University (2019)](https://beeckcenter.georgetown.edu/report/digital-innovation-in-latin-america-argentinas-digital-drivers-license/)
 - [Argentina: Building a Civic Tech Startup Within Government, Harvard Kennedy School, 2019 State of Digital Transformation, Part 8 (2020)](https://medium.com/digitalhks/argentina-building-a-civic-tech-startup-within-government-cebe861dbcc7)
 - [Crecer con Salud (Chat Crecer) virtual assistant, OECD Observatory of Public Sector Innovation case study](https://oecd-opsi.org/innovations/crecer-con-salud-virtual-assistant-for-pregnancy-and-early-childhood/)
@@ -58,8 +58,8 @@ More:
 - [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
 - [A humanity-scale digital public infrastructure?, GovInsider (2024)](https://govinsider.asia/intl-en/article/a-humanity-scale-digital-public-infrastructure)
 - [The Centre for Digital Public Infrastructure to launch DPI-as-a-Packaged-Solution, GovInsider (2024)](https://govinsider.asia/intl-en/article/the-centre-for-digital-public-infrastructure-to-launch-dpi-as-a-packaged-solution)
-- [How Argentina launched a new driving licence in just 65 days, GovInsider (2019)](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
-- [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/lists/digital-government-world100)
+- [How Argentina launched a new driving licence in just 65 days, GovInsider (2019)](https://govinsider.asia/intl-en/article/argentina-digital-licence-daniel-abadie-govtech)
+- [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/en/lists/digital-government-world100)
 
 ## Awards
 
@@ -73,5 +73,5 @@ More:
 - LinkedIn (preferred contact): https://www.linkedin.com/in/danielabadie/
 - Instagram: https://www.instagram.com/abadie.daniel
 - Medium: https://medium.com/@danielabadie
-- X / Twitter: https://twitter.com/dan_abadie
+- X / Twitter: https://x.com/dan_abadie
 - ResearchGate: https://www.researchgate.net/profile/Daniel-Abadie
