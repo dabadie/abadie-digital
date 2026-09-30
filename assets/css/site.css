@@ -342,6 +342,20 @@ a:hover { color: var(--signal-ink); }
 .w-src { font-size: .82rem; color: var(--muted); }
 @media (min-width: 768px) { .w-src { text-align: right; } }
 .writing-list a:hover .w-title { color: var(--signal-ink); }
+/* Rows with more than one link (e.g. EN / ES versions) */
+.writing-list .w-item {
+  display: grid; grid-template-columns: 3.5rem minmax(0, 1fr); gap: .25rem 1rem;
+  padding: 1.15rem 0; border-bottom: 1px solid var(--line);
+}
+@media (min-width: 768px) { .writing-list .w-item { grid-template-columns: 4.5rem minmax(0, 1fr) minmax(0, 16rem); align-items: baseline; } }
+.writing-list .w-links { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .45rem; }
+@media (min-width: 768px) { .writing-list .w-links { justify-content: flex-end; } }
+.writing-list .w-links a {
+  display: inline-block; padding: .15rem .6rem; border: 1px solid var(--line-strong); border-radius: 99px;
+  font-family: var(--f-mono); font-size: .72rem; color: var(--ink-2); text-decoration: none;
+  transition: background .2s, color .2s, border-color .2s;
+}
+.writing-list .w-links a:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); padding: .15rem .6rem; }
 .more-link { margin-top: 2rem; font-weight: 500; }
 
 /* ---------- Contact ---------- */

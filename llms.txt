@@ -27,8 +27,9 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 - [DPI-AI Framework website and toolkit](https://digitalpublicinfrastructure.ai/)
 - [DPI Roadmap Playbook, G20 South Africa (DIAL, CDPI, BTCA, AfricaNenda)](https://dial.global/research/the-dpi-roadmap-playbook/)
 - [Chapter 7 in "Digital Government Excellence" (Wiley, 2022)](https://onlinelibrary.wiley.com/doi/10.1002/9781119858904.ch7)
-- [Argentina's digital government: 2019 update (Medium)](https://medium.com/@danielabadie/argentinas-digital-government-2019-update-5b8fe9379bc4)
-- [Argentina: Gobierno Digital 2015–2019 (Medium, Spanish)](https://medium.com/@danielabadie/argentina-gobierno-digital-2015-2019-eb26fc12790e)
+- [Government Butlers: past, present and future of Argentina's digital state (2022, opinion column; ES original "Cadetes del Estado" in Seúl)](https://seul.ar/transformacion-digital-estado/) · [EN on Medium](https://medium.com/@danielabadie/government-butlers-3174a5ebda74)
+- [Argentina's digital government: 2015–2019 review (2019, EN)](https://medium.com/@danielabadie/argentinas-digital-government-2019-update-5b8fe9379bc4) · [ES: Argentina: Gobierno Digital 2015–2019](https://medium.com/@danielabadie/argentina-gobierno-digital-2015-2019-eb26fc12790e)
+- [Gobierno como Plataforma: Mi Argentina as a personal hub for citizen information and services (2018, ES)](https://medium.com/@danielabadie/gobierno-como-plataforma-41a9e7b72140)
 - [All Medium articles](https://medium.com/@danielabadie)
 
 ## Talks and videos
@@ -44,13 +45,18 @@ More:
 - [Mi Argentina, chapter 2 (2019, ES)](https://www.youtube.com/watch?v=JbxyNwFvpd0)
 - [Futuro Público podcast (2023, ES)](https://open.spotify.com/episode/659UqqOTUFd2L6pqIOrJnh)
 
+## Case studies
+
+- [From City to Nation: Digital government in Argentina, 2015–2018, Bennett Institute for Public Policy, University of Cambridge (2019)](https://www.bennettinstitute.cam.ac.uk/publications/argentina/)
+- [Digital Innovation in Latin America: Argentina's Digital Driver's License, Beeck Center, Georgetown University (2019)](https://beeckcenter.georgetown.edu/report/digital-innovation-in-latin-america-argentinas-digital-drivers-license/)
+- [Argentina: Building a Civic Tech Startup Within Government, Harvard Kennedy School, 2019 State of Digital Transformation, Part 8 (2020)](https://medium.com/digitalhks/argentina-building-a-civic-tech-startup-within-government-cebe861dbcc7)
+- [Crecer con Salud (Chat Crecer) virtual assistant, OECD Observatory of Public Sector Innovation case study](https://oecd-opsi.org/innovations/crecer-con-salud-virtual-assistant-for-pregnancy-and-early-childhood/)
+
 ## Press
 
-- [Crecer con Salud (Chat Crecer) virtual assistant, OECD Observatory of Public Sector Innovation case study](https://oecd-opsi.org/innovations/crecer-con-salud-virtual-assistant-for-pregnancy-and-early-childhood/)
 - [New framework argues government AI depends on strong DPI, Biometric Update (2026)](https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi)
 - [CDPI and Red GEALC sign LOI to boost DPI in LATAM and the Caribbean, Biometric Update (2024)](https://www.biometricupdate.com/202411/cdpi-and-gealc-sign-loi-to-boost-dpi-in-latam-caribbean)
 - [How Argentina launched a new driving licence in just 65 days, GovInsider](https://govinsider.asia/innovation/argentina-digital-licence-daniel-abadie-govtech/)
-- [Argentina: building a civic tech startup within government, Digital HKS](https://medium.com/digitalhks/argentina-building-a-civic-tech-startup-within-government-cebe861dbcc7)
 - [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/lists/digital-government-world100)
 
 ## Awards
