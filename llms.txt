@@ -1,6 +1,6 @@
 # Daniel Abadie
 
-> Daniel Abadie is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework. He works on Digital Public Infrastructure (DPI) and AI for the public sector. He was Argentina's Undersecretary of Digital Government (2015–2019) and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). Based in Buenos Aires, Argentina. Works in English and Spanish.
+> Daniel Abadie is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework. He works on Digital Public Infrastructure (DPI) and AI for the public sector. He was Argentina's Undersecretary of Digital Government (2015–2019) and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
 
 Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
 
@@ -9,6 +9,21 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 - Head of Technology & Partnerships, Centre for Digital Public Infrastructure (CDPI), since August 2025. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. It has shared lessons from more than 60 country engagements.
 - Responsibilities: technical strategy; neutral, pro bono architecture advice for national DPI programmes; DPI-as-a-Packaged-Solution (DaaS); partnerships with governments, multilaterals, funders and open-source communities.
 - Topics: digital identity, payments, data exchange, verifiable credentials, AI Blocks, DPI Workflows, public-sector AI agents.
+
+## Skills
+
+Written like agent skills: what each one does and when to call on it.
+
+- dpi-architecture: Designs national DPI (digital ID, payments, data exchange, verifiable credentials) with neutral, open, interoperable choices. Use when a country is scoping, sequencing or procuring its DPI.
+- ai-for-government: Treats AI as interoperable blocks on top of DPI rails rather than vertical silos; lead author of the DPI-AI Framework. Use when deciding where AI fits in public services without vendor lock-in.
+- government-as-a-platform: Turns fragmented services into one citizen experience (Mi BA, Mi Argentina with 30M+ users, argentina.gob.ar). Use when citizens face hundreds of sites, forms and logins.
+- digital-team-building: Hires and leads in-house multidisciplinary teams run like a civic-tech startup inside government. Use when a government needs its own delivery capacity, not another vendor.
+- strategy-to-delivery: Moves from plan to shipped product with small budgets and short cycles (digital driving licence live in 65 days). Use when the strategy exists but nothing has shipped.
+- ecosystem-partnerships: Brings together governments, multilaterals (IDB, World Bank, UNDP, CAF), funders and open-source communities. Use when a programme needs aligned partners and funding.
+- digital-inclusion: Designs programmes that get people online and using services (400,000+ people in 160 cities). Use when adoption, not technology, is the bottleneck.
+- public-speaking: Keynotes, webinars and executive teaching in English and Spanish (Code for America, TEDx). Use when leaders need to understand DPI and AI, and then act.
+
+Strengths: bias to action ("doing beats everything"); curiosity-driven problem solving; translates between policy, politics and technology; delivers with limited resources; builds teams that outlast him; works across Latin America, Africa and Asia.
 
 ## Career
 
