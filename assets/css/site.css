@@ -280,6 +280,8 @@ a:hover { color: var(--signal-ink); }
 .video-feature h3 { font-size: clamp(1.6rem, 3vw, 2.2rem); }
 .video-meta { font-family: var(--f-mono); font-size: .72rem; color: var(--on-deep-muted); letter-spacing: .04em; display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
 .lang { color: var(--deep); background: var(--on-deep); padding: .05rem .4rem; border-radius: 2px; font-weight: 500; }
+.badge-key { color: #fff; background: var(--signal); padding: .05rem .45rem; border-radius: 2px; font-weight: 500; text-transform: uppercase; letter-spacing: .08em; }
+.video-card .video-info p { color: var(--on-deep-muted); font-size: .95rem; margin: .6rem 0 0; max-width: 34rem; }
 
 .yt {
   position: relative; aspect-ratio: 16 / 9; width: 100%;

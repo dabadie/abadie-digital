@@ -34,11 +34,13 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 
 ## Talks and videos
 
+Featured:
+- [Building Argentina's Government-as-a-Platform, Code for America Summit keynote (2019, EN)](https://www.youtube.com/watch?v=htiPLQ1iO0A)
+- [Mínimo gobierno viable (Minimum viable government), TEDxMarDelPlata (2014, ES)](https://www.youtube.com/watch?v=ZHHQvu_o0Fk)
+
+More:
 - [DPI–AI Framework: Integrating AI into DPI, IDB Code4Dev webinar (2026, ES)](https://www.youtube.com/watch?v=z8PQdcHF6bI)
 - [Sovra Podcast #01: identity, payments and verifiable credentials in LATAM (2025, ES)](https://www.youtube.com/watch?v=OtsupCIp164)
-- [Building Argentina's Government-as-a-Platform, Code for America Summit keynote (2019, EN)](https://www.youtube.com/watch?v=htiPLQ1iO0A)
-- [5-Word Speech at the 23rd Webby Awards (2019, EN)](https://www.youtube.com/watch?v=VXfv69K5G6E)
-- [Mínimo gobierno viable (Minimum viable government), TEDxMarDelPlata (2014, ES)](https://www.youtube.com/watch?v=ZHHQvu_o0Fk)
 - [The present and future of digital transformation in Argentina, CCC Noticias (2024, ES)](https://www.youtube.com/watch?v=FFV5_AtK6Xs)
 - [Mi Argentina, chapter 2 (2019, ES)](https://www.youtube.com/watch?v=JbxyNwFvpd0)
 - [Futuro Público podcast (2023, ES)](https://open.spotify.com/episode/659UqqOTUFd2L6pqIOrJnh)
@@ -48,6 +50,7 @@ Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielab
 - [From City to Nation: Digital government in Argentina, 2015–2018, Bennett Institute for Public Policy, University of Cambridge (2019)](https://www.bennettinstitute.cam.ac.uk/publications/argentina/)
 - [Digital Innovation in Latin America: Argentina's Digital Driver's License, Beeck Center, Georgetown University (2019)](https://beeckcenter.georgetown.edu/report/digital-innovation-in-latin-america-argentinas-digital-drivers-license/)
 - [Argentina: Building a Civic Tech Startup Within Government, Harvard Kennedy School, 2019 State of Digital Transformation, Part 8 (2020)](https://medium.com/digitalhks/argentina-building-a-civic-tech-startup-within-government-cebe861dbcc7)
+- [Crecer con Salud (Chat Crecer) virtual assistant, OECD Observatory of Public Sector Innovation case study](https://oecd-opsi.org/innovations/crecer-con-salud-virtual-assistant-for-pregnancy-and-early-childhood/)
 
 ## Press
 
