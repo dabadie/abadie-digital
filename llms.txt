@@ -45,6 +45,7 @@ Strengths: bias to action ("doing beats everything"); curiosity-driven problem s
 - [Government Butlers: past, present and future of Argentina's digital state (2022, opinion column; ES original "Cadetes del Estado" in Seúl)](https://seul.ar/transformacion-digital-estado/) · [EN on Medium](https://medium.com/@danielabadie/government-butlers-3174a5ebda74)
 - [Argentina's digital government: 2015–2019 review (2019, EN)](https://medium.com/@danielabadie/argentinas-digital-government-2019-update-5b8fe9379bc4) · [ES: Argentina: Gobierno Digital 2015–2019](https://medium.com/@danielabadie/argentina-gobierno-digital-2015-2019-eb26fc12790e)
 - [Gobierno como Plataforma: Mi Argentina as a personal hub for citizen information and services (2018, ES)](https://medium.com/@danielabadie/gobierno-como-plataforma-41a9e7b72140)
+- [Argentinian Digital Health Strategy (2020, co-author), Studies in Health Technology and Informatics](https://pubmed.ncbi.nlm.nih.gov/32570496/)
 - [All Medium articles](https://medium.com/@danielabadie)
 
 ## Talks and videos
@@ -79,6 +80,9 @@ More:
 
 ## Press
 
+- [Creador de la App Mi Argentina destacó la importancia de las multiplataformas digitales, Plan B Misiones (2024, ES)](https://planbmisiones.com/2024/04/20/nota/creador-de-la-app-mi-argentina-destaco-la-importancia-de-las-multiplataformas-digitales-para-garantizar-la-inclusion-de-los-ciudadanos/)
+- [Daniel Abadie: "El mejor trámite es el que se elimina", El Periódico, interview (2019, ES)](https://www.elperiodico.com/es/economia/20191222/daniel-abadie-el-mejor-tramite-es-el-que-se-elimina-7783027)
+- [Argentina y Uruguay: una agenda digital en común, argentina.gob.ar (2018, ES)](https://www.argentina.gob.ar/noticias/argentina-y-uruguay-una-agenda-digital-en-comun)
 - [DPSA participates in launching South Africa's Digital Transformation Roadmap, The Public Servant (2025)](https://www.dpsa.gov.za/thepublicservant/2025/05/14/dpsa-participates-in-launching-south-africas-digital-transformation-roadmap/)
 - [El Gobierno Nacional oficializó el DNI digital, argentina.gob.ar (2019, ES)](https://www.argentina.gob.ar/noticias/el-gobierno-nacional-oficializo-el-dni-digital)
 - ["Tener Internet no es un fin en sí mismo, es una herramienta", UN Internet Governance Forum, argentina.gob.ar (2016, ES)](https://www.argentina.gob.ar/noticias/tener-internet-no-es-un-fin-en-si-mismo-es-una-herramienta)
@@ -88,6 +92,10 @@ More:
 - [The Centre for Digital Public Infrastructure to launch DPI-as-a-Packaged-Solution, GovInsider (2024)](https://govinsider.asia/intl-en/article/the-centre-for-digital-public-infrastructure-to-launch-dpi-as-a-packaged-solution)
 - [How Argentina launched a new driving licence in just 65 days, GovInsider (2019)](https://govinsider.asia/intl-en/article/argentina-digital-licence-daniel-abadie-govtech)
 - [Apolitical: 20 most influential people in digital government (2019)](https://apolitical.co/en/lists/digital-government-world100)
+
+## Memberships
+
+- Associate member since 2017, International Academy of Digital Arts and Sciences (IADAS), the body that judges the Webby Awards: https://www.iadas.net/membership/bio/daniel-abadie/4214
 
 ## Awards
 
