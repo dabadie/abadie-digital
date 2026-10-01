@@ -71,6 +71,7 @@ Strengths: bias to action ("doing beats everything"); curiosity-driven problem s
 - [DPI-AI Framework website and toolkit](https://digitalpublicinfrastructure.ai/)
 - [DPI Roadmap Playbook, G20 South Africa (DIAL, CDPI, BTCA, AfricaNenda)](https://dial.global/research/the-dpi-roadmap-playbook/)
 - [Chapter 7 in "Digital Government Excellence" (Wiley, 2022)](https://onlinelibrary.wiley.com/doi/10.1002/9781119858904.ch7)
+- [Estado y ciudadanía siglo XXI (State and citizenship in the 21st century), opinion column, Infobae (2018, ES)](https://www.infobae.com/opinion/2018/09/13/estado-y-ciudadania-siglo-xxi/)
 - [Government Butlers: past, present and future of Argentina's digital state (2022, opinion column; ES original "Cadetes del Estado" in Seúl)](https://seul.ar/transformacion-digital-estado/) · [EN on Medium](https://medium.com/@danielabadie/government-butlers-3174a5ebda74)
 - [Argentina's digital government: 2015–2019 review (2019, EN)](https://medium.com/@danielabadie/argentinas-digital-government-2019-update-5b8fe9379bc4) · [ES: Argentina: Gobierno Digital 2015–2019](https://medium.com/@danielabadie/argentina-gobierno-digital-2015-2019-eb26fc12790e)
 - [Gobierno como Plataforma: Mi Argentina as a personal hub for citizen information and services (2018, ES)](https://medium.com/@danielabadie/gobierno-como-plataforma-41a9e7b72140)
