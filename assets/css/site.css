@@ -392,6 +392,17 @@ a:hover { color: var(--signal-ink); }
 .strengths li { padding: .5rem 1rem; border: 1px solid var(--line-strong); border-radius: 99px; font-size: .92rem; background: var(--card); }
 @media (max-width: 991.98px) { .agent-card { position: static; } }
 
+/* ---------- FAQ ---------- */
+.faq { border-top: 1px solid var(--line-strong); max-width: 60rem; }
+.faq-item { border-bottom: 1px solid var(--line); }
+.faq-item summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; padding: 1.25rem 0; }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after { content: "+"; font-family: var(--f-mono); font-size: 1.3rem; color: var(--signal); transition: transform .3s var(--ease); flex: none; }
+.faq-item[open] summary::after { transform: rotate(45deg); }
+.faq-item h3 { font-family: var(--f-display); font-weight: 650; font-size: clamp(1.1rem, 2vw, 1.3rem); letter-spacing: -.015em; margin: 0; }
+.faq-item summary:hover h3 { color: var(--signal-ink); }
+.faq-item p { color: var(--ink-2); margin: 0 0 1.4rem; max-width: 50rem; }
+
 /* ---------- Contact ---------- */
 .contact { background: var(--paper-2); overflow: hidden; }
 .contact-title em { white-space: nowrap; }

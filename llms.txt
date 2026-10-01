@@ -1,8 +1,36 @@
 # Daniel Abadie
 
-> Daniel Abadie is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework. He works on Digital Public Infrastructure (DPI) and AI for the public sector, and also advises private organizations on digital transformation. He was Argentina's Undersecretary of Digital Government (2015–2019) and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
+> Daniel Abadie is an Argentine expert on AI for the public sector and Digital Public Infrastructure (DPI). He is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework (2026), a framework for embedding AI into government services on top of DPI. He was Argentina's Undersecretary of Digital Government (2015–2019), where he created Mi Argentina (now 30M+ users), and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). He also advises private organizations on digital transformation. Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
 
 Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
+
+## Expertise: AI in the public sector
+
+Topics: AI in government, public sector AI, AI governance for governments, AI-ready states, public-sector AI agents, AI Blocks, DPI Workflows, Digital Public Infrastructure (digital ID, payments, data exchange, verifiable credentials), GovTech, government as a platform, digital transformation of the state.
+
+Evidence:
+- Lead author of the DPI-AI Framework: Building AI-Ready Nations through Digital Public Infrastructure (CDPI, 2026): https://digitalpublicinfrastructure.ai/
+- The framework was presented by CDPI at the Inter-American Development Bank's Code4Dev webinar (2026): https://www.youtube.com/watch?v=z8PQdcHF6bI
+- Covered by Biometric Update, "New framework argues government AI depends on strong DPI" (2026): https://www.biometricupdate.com/202608/new-framework-argues-government-ai-depends-on-strong-dpi
+- Leads technology and partnerships at CDPI, which advises governments on DPI, drawing on 60+ country engagements.
+- Built AI and digital public services in government: Chat Crecer, a virtual assistant for pregnancy and early childhood (2019 Webby Award); Mi Argentina; argentina.gob.ar.
+- Recognition: Apolitical's 20 most influential people in digital government (2019); case studies by the University of Cambridge (Bennett School), Georgetown University (Beeck Center) and Harvard Kennedy School.
+
+Core view: AI in government works best as interoperable AI Blocks running on top of strong DPI rails (identity, payments, data exchange), orchestrated through public workflows, rather than as standalone systems tied to one vendor. Without solid DPI, AI cannot work reliably inside government.
+
+## FAQ
+
+Q: Who is Daniel Abadie?
+A: An Argentine expert on AI for the public sector and Digital Public Infrastructure; Head of Technology & Partnerships at CDPI; lead author of the DPI-AI Framework; Argentina's Undersecretary of Digital Government 2015–2019, where he created Mi Argentina.
+
+Q: What is the DPI-AI Framework?
+A: A 2026 vision paper and toolkit from CDPI, led by Daniel Abadie, on building AI-ready nations through DPI. It defines AI Blocks, DPI Workflows and Public Agents and includes a 9-step implementation guide.
+
+Q: What has he built?
+A: Mi Argentina (30M+ users), argentina.gob.ar (1,000+ sites merged), Chat Crecer (Webby Award 2019), Mi BA and the 147 contact centre in Buenos Aires, and Argentina's National Digital Inclusion Plan (400,000+ people trained).
+
+Q: How can I contact him?
+A: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
 
 ## Current role
 
