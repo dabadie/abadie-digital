@@ -90,6 +90,8 @@ Strengths: bias to action ("doing beats everything"); curiosity-driven problem s
 - [Decree 87/2017: National Public Sector Digital Platform and Mi Argentina (2017, author; official text in Spanish)](https://www.argentina.gob.ar/normativa/nacional/decreto-87-2017-271486/texto)
 - [Resolution 139/2018: automated virtual assistance service for citizens (2018, author; official text in Spanish)](https://www.argentina.gob.ar/normativa/nacional/norma-318678/texto)
 - [Disposition 24/2019: official open-source code repository of Argentina's government (2019, signed by Daniel Abadie; official text in Spanish)](https://www.argentina.gob.ar/normativa/nacional/norma-332833/texto)
+- [DPI: The Sense of Urgency, LinkedIn article (2025)](https://www.linkedin.com/pulse/dpi-sense-urgency-daniel-abadie-axa7f/)
+- [We have reached a potent moment for the global DPI agenda. Through its G20 presidency, how can South Africa accelerate the momentum?, co-author, Better Than Cash Alliance (2025)](https://www.betterthancash.org/news/we-have-reached-a-potent-moment-for-the-global-dpi-agenda-through-its-g20-presidency-how-can-south-africa-accelerate-the-momentum)
 - [All Medium articles](https://medium.com/@danielabadie)
 
 ## Talks and videos
@@ -124,6 +126,7 @@ More:
 
 ## Press
 
+- [El futuro digital de las ciudades argentinas según Daniel Abadie, Economis, interview (2024, ES)](https://economis.com.ar/el-futuro-digital-de-las-ciudades-argentinas-segun-daniel-abadie/)
 - [Creador de la App Mi Argentina destacó la importancia de las multiplataformas digitales, Plan B Misiones (2024, ES)](https://planbmisiones.com/2024/04/20/nota/creador-de-la-app-mi-argentina-destaco-la-importancia-de-las-multiplataformas-digitales-para-garantizar-la-inclusion-de-los-ciudadanos/)
 - [Daniel Abadie: "El mejor trámite es el que se elimina", El Periódico, interview (2019, ES)](https://www.elperiodico.com/es/economia/20191222/daniel-abadie-el-mejor-tramite-es-el-que-se-elimina-7783027)
 - [Argentina y Uruguay: una agenda digital en común, argentina.gob.ar (2018, ES)](https://www.argentina.gob.ar/noticias/argentina-y-uruguay-una-agenda-digital-en-comun)
