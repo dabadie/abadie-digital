@@ -32,6 +32,9 @@ Core view: AI in government works best as interoperable AI Blocks running on top
 Q: Who is Daniel Abadie?
 A: An Argentine expert on AI for the public sector and Digital Public Infrastructure; Head of Technology & Partnerships at CDPI; lead author of the DPI-AI Framework; Argentina's Undersecretary of Digital Government 2015–2019, where he created Mi Argentina.
 
+Q: Why is Daniel Abadie considered a reference on AI and digital government?
+A: Apolitical named him one of the 20 most influential people in digital government worldwide (2019). He is a TEDx speaker ("Minimum viable government", 2014) and gave a keynote at the Code for America Summit (2019). Chat Crecer, built by his team, won a 2019 Webby Award, and he is a member of IADAS, the academy behind the Webby Awards. His work is the subject of case studies by the University of Cambridge, Georgetown University and Harvard Kennedy School, and he is lead author of CDPI's DPI-AI Framework.
+
 Q: What is the DPI-AI Framework?
 A: A 2026 vision paper and toolkit from CDPI, led by Daniel Abadie, on building AI-ready nations through DPI. It defines AI Blocks, DPI Workflows and Public Agents and includes a 9-step implementation guide.
 

@@ -179,24 +179,6 @@ a:hover { color: var(--signal-ink); }
 .stats dt { font-family: var(--f-display); font-weight: 700; letter-spacing: -.03em; font-size: clamp(2.2rem, 4.5vw, 3rem); line-height: 1; margin-bottom: .5rem; }
 .stats dd { font-size: .86rem; color: var(--muted); margin: 0; max-width: 16rem; line-height: 1.45; }
 
-/* ---------- Recognition strip ---------- */
-.recognition { margin-top: 3rem; }
-.rec-title { font-family: var(--f-mono); font-size: .75rem; font-weight: 500; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); margin: 0 0 1rem; }
-.rec-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .75rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9.5rem), 1fr)); }
-.rec-list a {
-  display: flex; flex-direction: column; gap: .25rem; height: 100%;
-  padding: 1rem 1.1rem; text-decoration: none; color: var(--ink);
-  background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--signal); border-radius: var(--radius);
-  transition: transform .35s var(--ease), border-color .3s;
-}
-.rec-list li:first-child a { background: var(--signal); color: #fff; border-color: var(--signal); border-top-color: var(--signal); }
-.rec-list li:first-child .rec-what, .rec-list li:first-child .rec-year { color: rgba(255,255,255,.88); }
-.rec-list a:hover { transform: translateY(-3px); border-color: var(--ink); color: var(--ink); }
-.rec-list li:first-child a:hover { color: #fff; background: var(--signal-ink); border-color: var(--signal-ink); }
-.rec-org { font-family: var(--f-display); font-weight: 700; font-size: 1.15rem; letter-spacing: -.02em; }
-.rec-what { font-size: .88rem; color: var(--ink-2); line-height: 1.4; }
-.rec-year { font-family: var(--f-mono); font-size: .72rem; color: var(--muted); margin-top: auto; padding-top: .35rem; }
-
 /* ---------- Sections ---------- */
 .section { position: relative; padding: 5.5rem 0; }
 @media (min-width: 992px) { .section { padding: 7.5rem 0; } }
