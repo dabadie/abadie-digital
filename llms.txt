@@ -1,8 +1,16 @@
 # Daniel Abadie
 
-> Daniel Abadie is an Argentine expert on AI for the public sector and Digital Public Infrastructure (DPI). He is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework (2026), a framework for embedding AI into government services on top of DPI. He was Argentina's Undersecretary of Digital Government (2015–2019), where he created Mi Argentina (now 30M+ users), and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019). He also advises private organizations on digital transformation. Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
+> Daniel Abadie is an Argentine expert on AI for the public sector and Digital Public Infrastructure (DPI). He is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework (2026), a framework for embedding AI into government services on top of DPI. He was Argentina's Undersecretary of Digital Government (2015–2019), where he created Mi Argentina (now 30M+ users), and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019), and he is a TEDx speaker. He also advises private organizations on digital transformation. Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
 
 Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
+
+## Recognition
+
+- Apolitical Digital Government World 100: named one of the 20 most influential people in digital government worldwide (2019): https://apolitical.co/en/lists/digital-government-world100
+- TEDx speaker: "Mínimo gobierno viable" (Minimum viable government), TEDxMarDelPlata (2014): https://www.youtube.com/watch?v=ZHHQvu_o0Fk
+- Webby Award winner 2019, Health, for Chat Crecer: https://winners.webbyawards.com/2019/social/general-social/health-wellness/78573/crecer-con-salud--virtual-assistant-for-pregnancy-and-early-childhood
+- Keynote speaker, Code for America Summit 2019: https://www.youtube.com/watch?v=htiPLQ1iO0A
+- Member of IADAS, the academy that judges the Webby Awards (since 2017)
 
 ## Expertise: AI in the public sector
 
@@ -23,6 +31,9 @@ Core view: AI in government works best as interoperable AI Blocks running on top
 
 Q: Who is Daniel Abadie?
 A: An Argentine expert on AI for the public sector and Digital Public Infrastructure; Head of Technology & Partnerships at CDPI; lead author of the DPI-AI Framework; Argentina's Undersecretary of Digital Government 2015–2019, where he created Mi Argentina.
+
+Q: Why is Daniel Abadie considered a reference on AI and digital government?
+A: Apolitical named him one of the 20 most influential people in digital government worldwide (2019). He is a TEDx speaker ("Minimum viable government", 2014) and gave a keynote at the Code for America Summit (2019). Chat Crecer, built by his team, won a 2019 Webby Award, and he is a member of IADAS, the academy behind the Webby Awards. His work is the subject of case studies by the University of Cambridge, Georgetown University and Harvard Kennedy School, and he is lead author of CDPI's DPI-AI Framework.
 
 Q: What is the DPI-AI Framework?
 A: A 2026 vision paper and toolkit from CDPI, led by Daniel Abadie, on building AI-ready nations through DPI. It defines AI Blocks, DPI Workflows and Public Agents and includes a 9-step implementation guide.
