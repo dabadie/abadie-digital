@@ -28,7 +28,7 @@ Q: What is the DPI-AI Framework?
 A: A 2026 vision paper and toolkit from CDPI, led by Daniel Abadie, on building AI-ready nations through DPI. It defines AI Blocks, DPI Workflows and Public Agents and includes a 9-step implementation guide.
 
 Q: What has he built?
-A: Mi Argentina (30M+ users), argentina.gob.ar (1,000+ sites merged), Chat Crecer (Webby Award 2019), Mi BA and the 147 contact centre in Buenos Aires, and Argentina's National Digital Inclusion Plan (400,000+ people trained).
+A: Mi Argentina (30M+ users), argentina.gob.ar (1,000+ sites merged), Chat Crecer (Webby Award 2019), Mi BA and the 147 contact centre in Buenos Aires, and Argentina's National Digital Inclusion Plan (400,000+ people trained). He also wrote the regulations behind them: Decree 87/2017 (national digital platform and Mi Argentina), Resolution 139/2018 (AI virtual assistants across citizen services) and Disposition 24/2019 (government open-source repository).
 
 Q: How can I contact him?
 A: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
