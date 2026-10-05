@@ -46,7 +46,7 @@ A: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
 
 ## Current role
 
-- Chief Growth Officer, Centre for Digital Public Infrastructure (CDPI), since October 2026. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships → Head of Technology & Partnerships, August 2025–October 2026). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. It has shared lessons from more than 60 country engagements.
+- Chief Growth Officer, Centre for Digital Public Infrastructure (CDPI), since October 2026. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships → Head of Technology & Partnerships, August 2025–October 2026). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. Daniel works globally, across Latin America and the Caribbean, Africa and Asia. It has shared lessons from more than 60 country engagements.
 - Focus as Chief Growth Officer: expanding CDPI's impact and reach globally; growing its work on AI and DPI; opening new opportunities with countries and partners; strengthening relationships across the DPI ecosystem; identifying the next areas where CDPI can make a meaningful contribution.
 - Previously, as Head of Technology & Partnerships: technical strategy; neutral, pro bono architecture advice for national DPI programmes; DPI-as-a-Packaged-Solution (DaaS); partnerships with governments, multilaterals, funders and open-source communities.
 - Topics: digital identity, payments, data exchange, verifiable credentials, AI Blocks, DPI Workflows, public-sector AI agents.

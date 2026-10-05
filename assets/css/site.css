@@ -225,7 +225,7 @@ a:hover { color: var(--signal-ink); }
 @media (min-width: 992px) { .stop-years { text-align: right; padding-right: 1rem; } .stop-body { padding-left: 2.5rem; } }
 .stop-body { max-width: 46rem; }
 .stop h3 { font-family: var(--f-display); font-weight: 650; font-size: clamp(1.35rem, 2.4vw, 1.65rem); letter-spacing: -.02em; line-height: 1.2; margin: 0 0 .35rem; }
-.org-note { font-family: var(--f-mono); font-size: .72rem; color: var(--muted); letter-spacing: .04em; vertical-align: middle; margin-left: .35rem; white-space: nowrap; }
+.org-note { font-family: var(--f-mono); font-size: .72rem; color: var(--muted); letter-spacing: .04em; vertical-align: middle; margin-left: .35rem; }
 .role { font-weight: 600; color: var(--signal-ink); margin-bottom: .75rem; font-size: .98rem; }
 .stop-body p { color: var(--ink-2); }
 .stop-minor h3 { font-size: 1.3rem; }
