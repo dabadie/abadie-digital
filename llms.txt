@@ -1,6 +1,6 @@
 # Daniel Abadie
 
-> Daniel Abadie is an Argentine expert on AI for the public sector and Digital Public Infrastructure (DPI). He is Head of Technology & Partnerships at the Centre for Digital Public Infrastructure (CDPI) and lead author of the DPI-AI Framework (2026), a framework for embedding AI into government services on top of DPI. He was Argentina's Undersecretary of Digital Government (2015–2019), where he created Mi Argentina (now 30M+ users), and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019), and he is a TEDx speaker. He also advises private organizations on digital transformation. Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
+> Daniel Abadie is an Argentine expert on AI for the public sector and Digital Public Infrastructure (DPI). He is Chief Growth Officer at the Centre for Digital Public Infrastructure (CDPI), where he leads its global expansion on AI and DPI, and lead author of the DPI-AI Framework (2026), a framework for embedding AI into government services on top of DPI. He was Argentina's Undersecretary of Digital Government (2015–2019), where he created Mi Argentina (now 30M+ users), and head of digital for the City of Buenos Aires (2007–2015). Apolitical named him one of the 20 most influential people in digital government (2019), and he is a TEDx speaker. He also advises private organizations on digital transformation. Born in 1981 in Buenos Aires, Argentina; Argentine and Italian citizen; based in Buenos Aires. Speaks Spanish, English, Portuguese and Italian.
 
 Contact: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
 
@@ -30,7 +30,7 @@ Core view: AI in government works best as interoperable AI Blocks running on top
 ## FAQ
 
 Q: Who is Daniel Abadie?
-A: An Argentine expert on AI for the public sector and Digital Public Infrastructure; Head of Technology & Partnerships at CDPI; lead author of the DPI-AI Framework; Argentina's Undersecretary of Digital Government 2015–2019, where he created Mi Argentina.
+A: An Argentine expert on AI for the public sector and Digital Public Infrastructure; Chief Growth Officer at CDPI; lead author of the DPI-AI Framework; Argentina's Undersecretary of Digital Government 2015–2019, where he created Mi Argentina.
 
 Q: Why is Daniel Abadie considered a reference on AI and digital government?
 A: Apolitical named him one of the 20 most influential people in digital government worldwide (2019). He is a TEDx speaker ("Minimum viable government", 2014) and gave a keynote at the Code for America Summit (2019). Chat Crecer, built by his team, won a 2019 Webby Award, and he is a member of IADAS, the academy behind the Webby Awards. His work is the subject of case studies by the University of Cambridge, Georgetown University and Harvard Kennedy School, and he is lead author of CDPI's DPI-AI Framework.
@@ -46,8 +46,9 @@ A: LinkedIn is the preferred channel: https://www.linkedin.com/in/danielabadie/
 
 ## Current role
 
-- Head of Technology & Partnerships, Centre for Digital Public Infrastructure (CDPI), since August 2025. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. It has shared lessons from more than 60 country engagements.
-- Responsibilities: technical strategy; neutral, pro bono architecture advice for national DPI programmes; DPI-as-a-Packaged-Solution (DaaS); partnerships with governments, multilaterals, funders and open-source communities.
+- Chief Growth Officer, Centre for Digital Public Infrastructure (CDPI), since October 2026. At CDPI since February 2024 (Senior Technical Advisor LAC → Senior Technical Advisor → Sr. Technical Advisor & Head of Partnerships → Head of Technology & Partnerships, August 2025–October 2026). CDPI is a pro bono organisation housed at IIIT Bangalore, India, that helps countries adopt DPI. It has shared lessons from more than 60 country engagements.
+- Focus as Chief Growth Officer: expanding CDPI's impact and reach globally; growing its work on AI and DPI; opening new opportunities with countries and partners; strengthening relationships across the DPI ecosystem; identifying the next areas where CDPI can make a meaningful contribution.
+- Previously, as Head of Technology & Partnerships: technical strategy; neutral, pro bono architecture advice for national DPI programmes; DPI-as-a-Packaged-Solution (DaaS); partnerships with governments, multilaterals, funders and open-source communities.
 - Topics: digital identity, payments, data exchange, verifiable credentials, AI Blocks, DPI Workflows, public-sector AI agents.
 
 ## Skills
